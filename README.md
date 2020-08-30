@@ -2,7 +2,7 @@
 
 ## Aim of this repository ##
 
-The package attempts to use opencv to do facial recogonition.
+The package attempts to use opencv and caffee models to do person/face recogonition.
 
 ## Setting up ##
 
