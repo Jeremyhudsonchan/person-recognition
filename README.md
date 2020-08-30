@@ -1,4 +1,4 @@
-# Camera-api-python #
+# Person Recognition #
 
 ## Aim of this repository ##
 
