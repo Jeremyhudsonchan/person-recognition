@@ -48,6 +48,6 @@ pip3 install -r requirements.txt
 
 ## Running the program ##
 
-```
-python3 facial_recognition.py
+```cmd
+python3 person_recognition.py
 ```
